@@ -4,8 +4,7 @@ The system was designed to perform multiple intelligent tasks autonomously and m
 
 In this project, I worked mainly as a Hardware Engineer with a basic contribution to the software side. My role included designing and integrating the electronic system, including the ESP32 microcontroller, motor drivers, servo connections, power regulation circuits, and sensor interfacing, as illustrated in the schematic diagram.
 
-Schematic.jpg
-
+![Project Schematic](Schematic.jpg)
 At the core of the system, an ESP32-WROOM microcontroller handles sensor processing, motor control, and communication tasks. The movement system is powered through dual motor drivers, allowing the robot to navigate efficiently through different environments, including obstacles and ramps during fight scenes and competitions.
 
 In addition, the robot is equipped with a **robotic arm** controlled using **five servo motors**, as shown in the servo section of the schematic. The arm is capable of lifting and handling objects with precision. Unlike the autonomous navigation mode, the robotic arm is operated manually using a PlayStation 4 Controller, giving the user real-time control and flexibility during operation.
