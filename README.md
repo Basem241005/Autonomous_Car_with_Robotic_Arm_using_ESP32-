@@ -1,6 +1,14 @@
 The **Autonomous Car with Robotic Arm using ESP32** was one of the projects we proudly participated in with during the **Plaza Competition 2026**, organized by Team Starks at Faculty of Engineering, Mansoura University.
 
-The system was designed to perform multiple intelligent tasks autonomously and manually. As illustrated in the schematic diagram, the car relies on **three ultrasonic sensors** positioned at different directions to detect walls and obstacles, enabling it to **solve mazes automatically** and determine the correct path without any human intervention.
+The system was designed to perform multiple intelligent tasks autonomously and manually. As illustrated in the schematic diagram, the car relies on **three ultrasonic sensors** positioned at different directions to detect walls and obstacles, enabling it to **solve mazes automatically** and determine the correct path without any human intervention. 
+
+My Team:
+Basem Mousa (Me)
+Adam  Gomaa 
+Asser Erfan 
+Ameen Ramadan
+Taha Hamed 
+Mohamed Attia
 
 In this project, I worked mainly as a Hardware Engineer with a basic contribution to the software side. My role included designing and integrating the electronic system, including the ESP32 microcontroller, motor drivers, servo connections, power regulation circuits, and sensor interfacing, as illustrated in the schematic diagram.
 
